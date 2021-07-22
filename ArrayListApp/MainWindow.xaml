@@ -1,0 +1,24 @@
+﻿<Window x:Class="ArrayListApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArrayListApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="310.737" Width="550.842">
+    <Grid>
+        <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="134,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnAdd_Click"/>
+        <Button x:Name="btnRemove" Content="Remove" HorizontalAlignment="Left" Margin="234,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnRemove_Click"/>
+        <Button x:Name="btnShow" Content="Show" HorizontalAlignment="Left" Margin="330,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnShow_Click"/>
+        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Height="40" Margin="134,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" TextAlignment="Center" FontSize="14"/>
+        <Label Content="Fill any number" HorizontalAlignment="Left" Margin="208,40,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <Border Margin="325,122,129,132">
+            <Grid Margin="0,1,0,-24">
+                <Label Content="Count =" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,-22" Height="48"/>
+                <Label x:Name="lblCount" Content="0" Margin="61,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Height="48" Width="28"/>
+
+            </Grid>
+        </Border>
+
+    </Grid>
+</Window>

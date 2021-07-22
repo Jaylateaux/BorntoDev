@@ -1,0 +1,13 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.deps.json
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.runtimeconfig.json
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.runtimeconfig.dev.json
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.dll
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\bin\Debug\netcoreapp3.1\array2.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.AssemblyInfoInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.AssemblyInfo.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.dll
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\array2\obj\Debug\netcoreapp3.1\array2.genruntimeconfig.cache

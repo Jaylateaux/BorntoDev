@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance_MarkupCompile.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance_MarkupCompile.lref
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.g.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\Inheritance\obj\Debug\Inheritance.pdb

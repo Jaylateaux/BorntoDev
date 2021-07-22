@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.lref
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.g.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb

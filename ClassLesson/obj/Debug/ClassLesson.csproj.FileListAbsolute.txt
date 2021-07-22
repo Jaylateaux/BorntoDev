@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\bin\Debug\ClassLesson.exe.config
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\bin\Debug\ClassLesson.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\bin\Debug\ClassLesson.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson_MarkupCompile.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson_MarkupCompile.lref
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.g.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.Properties.Resources.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\ClassLesson\obj\Debug\ClassLesson.pdb

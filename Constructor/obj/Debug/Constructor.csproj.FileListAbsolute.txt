@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\bin\Debug\Constructor.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor_MarkupCompile.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor_MarkupCompile.lref
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.g.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.Properties.Resources.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\Constructor\obj\Debug\Constructor.pdb

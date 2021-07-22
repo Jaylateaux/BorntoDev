@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\bin\Debug\GUIHomework.exe.config
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\bin\Debug\GUIHomework.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\bin\Debug\GUIHomework.pdb
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework_MarkupCompile.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework_MarkupCompile.lref
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.g.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.Properties.Resources.resources
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.exe
+C:\Users\Piyan\source\repos\ConsoleApp1\GUIHomework\obj\Debug\GUIHomework.pdb
