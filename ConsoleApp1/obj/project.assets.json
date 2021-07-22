@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ForLoop.csproj",
-      "projectName": "ForLoop",
-      "projectPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ForLoop.csproj",
+      "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp1\\forLoop.csproj",
+      "projectName": "forLoop",
+      "projectPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp1\\forLoop.csproj",
       "packagesPath": "C:\\Users\\Piyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

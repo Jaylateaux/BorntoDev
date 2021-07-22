@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\Array.csproj",
-      "projectName": "Array",
-      "projectPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\Array.csproj",
+      "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj",
+      "projectName": "array",
+      "projectPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj",
       "packagesPath": "C:\\Users\\Piyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\obj\\",
+      "outputPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

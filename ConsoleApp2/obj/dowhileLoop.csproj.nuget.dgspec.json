@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp2\\dowhileLoop.csproj": {}
+    "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp2\\dowhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp2\\dowhileLoop.csproj": {
+    "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp2\\dowhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp2\\dowhileLoop.csproj",
+        "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp2\\dowhileLoop.csproj",
         "projectName": "dowhileLoop",
-        "projectPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp2\\dowhileLoop.csproj",
+        "projectPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp2\\dowhileLoop.csproj",
         "packagesPath": "C:\\Users\\Piyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\ConsoleApp2\\obj\\",
+        "outputPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Piyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

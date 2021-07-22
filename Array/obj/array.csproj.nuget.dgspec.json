@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\array.csproj": {}
+    "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\array.csproj": {
+    "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\array.csproj",
+        "projectUniqueName": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj",
         "projectName": "array",
-        "projectPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\array.csproj",
+        "projectPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\array.csproj",
         "packagesPath": "C:\\Users\\Piyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Piyan\\source\\repos\\ConsoleApp1\\Array\\obj\\",
+        "outputPath": "C:\\Users\\Piyan\\source\\repos\\BorntoDev\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Piyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
