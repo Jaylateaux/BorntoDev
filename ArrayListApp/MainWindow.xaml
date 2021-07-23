@@ -10,8 +10,8 @@
         <Button x:Name="btnAdd" Content="Add" HorizontalAlignment="Left" Margin="134,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnAdd_Click"/>
         <Button x:Name="btnRemove" Content="Remove" HorizontalAlignment="Left" Margin="234,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnRemove_Click"/>
         <Button x:Name="btnShow" Content="Show" HorizontalAlignment="Left" Margin="330,156,0,0" VerticalAlignment="Top" Width="75" Height="59" Click="btnShow_Click"/>
-        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Height="40" Margin="134,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" TextAlignment="Center" FontSize="14"/>
-        <Label Content="Fill any number" HorizontalAlignment="Left" Margin="208,40,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="txtNumber" HorizontalAlignment="Left" Height="23" Margin="134,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" TextAlignment="Center" FontSize="14"/>
+        <Label Content="Fill any number" HorizontalAlignment="Left" Margin="208,16,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
         <Border Margin="325,122,129,132">
             <Grid Margin="0,1,0,-24">
                 <Label Content="Count =" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,-22" Height="48"/>
@@ -19,6 +19,7 @@
 
             </Grid>
         </Border>
+        <TextBox x:Name="txtKey" HorizontalAlignment="Left" Height="23" Margin="134,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" TextAlignment="Center" FontSize="14"/>
 
     </Grid>
 </Window>

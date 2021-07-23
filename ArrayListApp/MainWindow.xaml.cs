@@ -22,6 +22,7 @@ namespace ArrayListApp
     public partial class MainWindow : Window
     {
         ArrayList arrayList;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -36,7 +37,6 @@ namespace ArrayListApp
             }
 
             lblCount.Content = arrayList.Count;
-
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
@@ -46,14 +46,13 @@ namespace ArrayListApp
                 MessageBox.Show("Please input number.");
             }
             else
-            { 
+            {
                 arrayList.Add(int.Parse(txtNumber.Text));
 
                 MessageBox.Show("Successfully added.");
                 txtNumber.Clear();
                 lblCount.Content = arrayList.Count;
             }
-            
         }
 
         private void btnRemove_Click(object sender, RoutedEventArgs e)
