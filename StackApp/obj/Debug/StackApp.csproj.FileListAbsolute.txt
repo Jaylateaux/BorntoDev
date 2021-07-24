@@ -1,0 +1,15 @@
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\bin\Debug\StackApp.exe.config
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\bin\Debug\StackApp.exe
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\bin\Debug\StackApp.pdb
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.csprojAssemblyReference.cache
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp_MarkupCompile.cache
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp_MarkupCompile.lref
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.g.resources
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.Properties.Resources.resources
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.exe
+C:\Users\Piyan\source\repos\BorntoDev\StackApp\obj\Debug\StackApp.pdb

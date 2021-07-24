@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableApp", "HashTableAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedListApp", "SortedListApp\SortedListApp.csproj", "{22A3F722-6F3C-4600-AD21-8442831D6BC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackApp", "StackApp\StackApp.csproj", "{00F26C7F-8D4C-44E7-81B6-387A6967C462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{22A3F722-6F3C-4600-AD21-8442831D6BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A3F722-6F3C-4600-AD21-8442831D6BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A3F722-6F3C-4600-AD21-8442831D6BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F26C7F-8D4C-44E7-81B6-387A6967C462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F26C7F-8D4C-44E7-81B6-387A6967C462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F26C7F-8D4C-44E7-81B6-387A6967C462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F26C7F-8D4C-44E7-81B6-387A6967C462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
