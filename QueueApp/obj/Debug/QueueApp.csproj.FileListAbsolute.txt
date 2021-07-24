@@ -1,0 +1,14 @@
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\bin\Debug\QueueApp.exe.config
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\bin\Debug\QueueApp.exe
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\bin\Debug\QueueApp.pdb
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\MainWindow.g.cs
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\App.g.cs
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp_MarkupCompile.cache
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp_MarkupCompile.lref
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\MainWindow.baml
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.g.resources
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.Properties.Resources.resources
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.csproj.GenerateResource.cache
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.csproj.CoreCompileInputs.cache
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.exe
+C:\Users\Piyan\source\repos\BorntoDev\QueueApp\obj\Debug\QueueApp.pdb
