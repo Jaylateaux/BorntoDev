@@ -24,6 +24,18 @@ namespace SQLiteApp
         {
             InitializeComponent();
             DataAccess.InitializeDatabase();
+            DataAccess.AddData("PIYANAT", "KHRUEANOI", "Piyanat.k.j@gmail.com");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            DataAccess.GetData();
+            string strData = "";
+            foreach (string data in DataAccess.GetData())
+            {
+                strData = strData + data + "\n";
+            }
+            MessageBox.Show(strData);
         }
     }
 }
